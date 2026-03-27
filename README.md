@@ -1,4 +1,4 @@
-# 🧩 Sudoku Premium & Benchmark Solver
+# 🧩 Sudoku & Benchmark Solver
 
 Une application de Sudoku complète et performante développée en Python. Ce projet ne se contente pas d'offrir une expérience de jeu élégante ; il sert également de plateforme de **benchmark** pour comparer différents algorithmes de résolution de problèmes de satisfaction de contraintes (CSP).
 
